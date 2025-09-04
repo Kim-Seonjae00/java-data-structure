@@ -40,7 +40,7 @@
         </ul>
     </li>
 </ul>
-
+<br>
 <h2>비선형 (Non-Linear)</h2>
 <ul>
     <li>
